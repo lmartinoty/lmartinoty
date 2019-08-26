@@ -1,0 +1,31 @@
+CODEBOOK
+========
+
+dmage = age of mother
+dmeduc = detailed educ of mother
+dmar = marital status of mother
+dfage = age of father
+dfeduc = educ of father detail
+birmon = month of birth
+weekday = day of week child born
+dgestat = gestation - detail in we
+csex = sex of child
+dbrwt = birthweight in grams
+agpar = one minute agpar score (health status between 0 and 1 0 : dead ; 10 : healthy)
+delmeth5 = method of delivery
+anemia = anemia mother
+cardiac = cardiac disease mother
+lung = acute or chronic lung dis
+diabetes = diabetes mother
+herpes = genital herpes mother
+chyper = chronic hypertension
+phyper = pregnancy related hyperte
+pre4000 = previous infant 4000 or m
+preterm = previous preterm infant
+tobacco = 1 if tobacco use during pregnancy
+cigar = average number of cigaret
+cigar6 = average number of cigaret recode
+alcohol = alcohol use during pregna
+drink = average number of drinks
+drink5 = average number of drinks
+wgain = weight gain

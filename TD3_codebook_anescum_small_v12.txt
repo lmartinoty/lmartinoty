@@ -1,0 +1,126 @@
+============================================================================year = Year of Study
+============================================================================
+age = Respondent Age
+============================================================================
+gender = Respondent gender
+VALID_CODES:
+------------
+1.  Male
+2.  Female
+MISSING_CODES:
+--------------
+0.  NA; no Pre IW
+============================================================================
+race = Respondent Race 3-category
+VALID_CODES:
+------------
+1.  White
+2.  Black
+3.  Other
+MISSING_CODES:
+--------------
+9.  DK; NA; no Pre IW; short-form 'new' Cross Section
+    or Spanish language (1992)
+============================================================================
+edu = What is highest grade of school or year of college
+you have completed?
+VALID_CODES:
+------------
+1.  8 grades or less ('grade school')
+2.  9-12 grades ('high school'), no diploma/equivalency
+3.  12 grades, diploma or equivalency
+4.  12 grades, diploma or equivalency plus non-academic
+      training
+5.  Some college, no degree; junior/community college
+      level degree (AA degree)
+6.  BA level degrees; advanced degrees incl. LLB
+MISSING_CODES:
+--------------
+8.  DK
+9.  NA; RF; no Pre IW; short-form 'new' Cross Section 
+    (1992)
+============================================================================
+south = Region - political south
+VALID_CODES:
+------------
+1.  South
+2.  Nonsouth
+============================================================================income = Family income
+VALID_CODES:
+------------
+1.  0 to 16 percentile
+2.  17 to 33 percentile
+3.  34 to 67 percentile
+4.  68 to 95 percentile
+5.  96 to 100 percentile
+MISSING_CODES:
+--------------
+0.  DK; NA; refused to answer; no Pre IW
+Inap. question not used
+============================================================================partyid = 7-pt Scale Party ID
+VALID_CODES:
+------------
+1.  Strong Democrat
+2.  Weak Democrat
+3.  Independent - Democrat        
+4.  Independent - Independent
+5.  Independent - Republican
+6.  Weak Republican
+7.  Strong Republican
+MISSING_CODES:
+--------------
+0.  DK; NA; other; refused to answer; no Pre IW
+Inap. question not used
+============================================================================interest = Respondant's Interest in the Elections
+VALID_CODES:
+------------
+1.  Not much interested
+2.  Somewhat interested
+3.  Very much interested
+9.  DK
+MISSING_CODES:
+--------------
+0.  NA; no Pre IW; version B (2008)
+Inap. question not used
+============================================================================govtrust = How Much Does the Respondant Trust the Federal Govt To Do What is Right
+VALID_CODES:
+------------
+1.  None of the time (VOLUNTEERED); almost never (1966
+    only)
+2.  Some of the time
+3.  Most of the time
+4.  Just about always
+9.  DK; depends
+MISSING_CODES:
+--------------
+0.  NA; no Post IW; abbrev. telephone IW (1984: See
+    VCF0015b)
+============================================================================abortion = Respondant Opinion: By Law, When Should Abortion Be Allowed
+VALID_CODES:
+------------
+1. By law, abortion should never be permitted.
+2. The law should permit abortion only in case of rape,
+     incest, or when the woman's life is in danger.
+3. The law should permit abortion for reasons other than
+     rape, incest, or danger to the woman's life, but only
+     after the need for the abortion has been clearly
+     established.
+4. By law, a woman should always be able to obtain an
+     abortion as a matter of personal choice.
+9.   DK; other
+MISSING_CODES:
+--------------
+0.   NA; no Post IW; version NEW (2008)
+============================================================================demtherm = Thermometer: Democratic Party
+QUESTION:
+---------
+The Democratic Party -- feeling thermometer
+VALID_CODES:
+------------
+00-96. Degrees as coded
+97. 97-100 Degrees
+MISSING_CODES:
+--------------
+98. DK
+99. NA
+============================================================================
